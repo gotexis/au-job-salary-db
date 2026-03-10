@@ -1,0 +1,1430 @@
+[
+  {
+    "slug": "software-engineer",
+    "title": "Software Engineer",
+    "category": "Technology",
+    "description": "Design, develop, and maintain software applications and systems.",
+    "averageSalary": 110000,
+    "medianSalary": 107000,
+    "entryLevel": 72000,
+    "midLevel": 110000,
+    "seniorLevel": 154000,
+    "byState": {
+      "NSW": 116000,
+      "VIC": 112000,
+      "QLD": 105000,
+      "WA": 119000,
+      "SA": 101000,
+      "TAS": 97000,
+      "ACT": 121000,
+      "NT": 113000
+    },
+    "growth": "+12%",
+    "demand": "Very High",
+    "relatedRoles": [
+      "Full Stack Developer",
+      "Backend Developer",
+      "Frontend Developer"
+    ]
+  },
+  {
+    "slug": "data-scientist",
+    "title": "Data Scientist",
+    "category": "Technology",
+    "description": "Analyze complex datasets to drive business decisions using statistical models and ML.",
+    "averageSalary": 120000,
+    "medianSalary": 116000,
+    "entryLevel": 78000,
+    "midLevel": 120000,
+    "seniorLevel": 168000,
+    "byState": {
+      "NSW": 126000,
+      "VIC": 122000,
+      "QLD": 114000,
+      "WA": 130000,
+      "SA": 110000,
+      "TAS": 106000,
+      "ACT": 132000,
+      "NT": 124000
+    },
+    "growth": "+15%",
+    "demand": "Very High",
+    "relatedRoles": [
+      "Data Analyst",
+      "Machine Learning Engineer",
+      "Data Engineer"
+    ]
+  },
+  {
+    "slug": "devops-engineer",
+    "title": "DevOps Engineer",
+    "category": "Technology",
+    "description": "Bridge development and operations with CI/CD pipelines and infrastructure automation.",
+    "averageSalary": 130000,
+    "medianSalary": 126000,
+    "entryLevel": 85000,
+    "midLevel": 130000,
+    "seniorLevel": 182000,
+    "byState": {
+      "NSW": 137000,
+      "VIC": 133000,
+      "QLD": 124000,
+      "WA": 140000,
+      "SA": 120000,
+      "TAS": 114000,
+      "ACT": 143000,
+      "NT": 134000
+    },
+    "growth": "+14%",
+    "demand": "High",
+    "relatedRoles": [
+      "Site Reliability Engineer",
+      "Cloud Engineer",
+      "Platform Engineer"
+    ]
+  },
+  {
+    "slug": "frontend-developer",
+    "title": "Frontend Developer",
+    "category": "Technology",
+    "description": "Build user-facing web applications using modern JavaScript frameworks.",
+    "averageSalary": 95000,
+    "medianSalary": 92000,
+    "entryLevel": 62000,
+    "midLevel": 95000,
+    "seniorLevel": 133000,
+    "byState": {
+      "NSW": 100000,
+      "VIC": 97000,
+      "QLD": 90000,
+      "WA": 103000,
+      "SA": 87000,
+      "TAS": 84000,
+      "ACT": 105000,
+      "NT": 98000
+    },
+    "growth": "+10%",
+    "demand": "High",
+    "relatedRoles": [
+      "Software Engineer",
+      "UX Designer",
+      "Full Stack Developer"
+    ]
+  },
+  {
+    "slug": "backend-developer",
+    "title": "Backend Developer",
+    "category": "Technology",
+    "description": "Develop server-side logic, APIs, and database systems.",
+    "averageSalary": 105000,
+    "medianSalary": 102000,
+    "entryLevel": 68000,
+    "midLevel": 105000,
+    "seniorLevel": 147000,
+    "byState": {
+      "NSW": 110000,
+      "VIC": 107000,
+      "QLD": 100000,
+      "WA": 113000,
+      "SA": 97000,
+      "TAS": 92000,
+      "ACT": 116000,
+      "NT": 108000
+    },
+    "growth": "+11%",
+    "demand": "High",
+    "relatedRoles": [
+      "Software Engineer",
+      "Full Stack Developer",
+      "DevOps Engineer"
+    ]
+  },
+  {
+    "slug": "full-stack-developer",
+    "title": "Full Stack Developer",
+    "category": "Technology",
+    "description": "Work across the entire web stack from frontend to backend.",
+    "averageSalary": 108000,
+    "medianSalary": 105000,
+    "entryLevel": 70000,
+    "midLevel": 108000,
+    "seniorLevel": 151000,
+    "byState": {
+      "NSW": 113000,
+      "VIC": 110000,
+      "QLD": 103000,
+      "WA": 117000,
+      "SA": 99000,
+      "TAS": 95000,
+      "ACT": 119000,
+      "NT": 111000
+    },
+    "growth": "+12%",
+    "demand": "Very High",
+    "relatedRoles": [
+      "Software Engineer",
+      "Frontend Developer",
+      "Backend Developer"
+    ]
+  },
+  {
+    "slug": "cloud-engineer",
+    "title": "Cloud Engineer",
+    "category": "Technology",
+    "description": "Design and manage cloud infrastructure on AWS, Azure, or GCP.",
+    "averageSalary": 135000,
+    "medianSalary": 131000,
+    "entryLevel": 88000,
+    "midLevel": 135000,
+    "seniorLevel": 189000,
+    "byState": {
+      "NSW": 142000,
+      "VIC": 138000,
+      "QLD": 128000,
+      "WA": 146000,
+      "SA": 124000,
+      "TAS": 119000,
+      "ACT": 149000,
+      "NT": 139000
+    },
+    "growth": "+18%",
+    "demand": "Very High",
+    "relatedRoles": [
+      "DevOps Engineer",
+      "Solutions Architect",
+      "Platform Engineer"
+    ]
+  },
+  {
+    "slug": "cybersecurity-analyst",
+    "title": "Cybersecurity Analyst",
+    "category": "Technology",
+    "description": "Protect systems and networks from cyber threats and vulnerabilities.",
+    "averageSalary": 115000,
+    "medianSalary": 112000,
+    "entryLevel": 75000,
+    "midLevel": 115000,
+    "seniorLevel": 161000,
+    "byState": {
+      "NSW": 121000,
+      "VIC": 117000,
+      "QLD": 109000,
+      "WA": 124000,
+      "SA": 106000,
+      "TAS": 101000,
+      "ACT": 127000,
+      "NT": 118000
+    },
+    "growth": "+20%",
+    "demand": "Very High",
+    "relatedRoles": [
+      "Security Engineer",
+      "Penetration Tester",
+      "SOC Analyst"
+    ]
+  },
+  {
+    "slug": "machine-learning-engineer",
+    "title": "Machine Learning Engineer",
+    "category": "Technology",
+    "description": "Build and deploy ML models at scale for production systems.",
+    "averageSalary": 140000,
+    "medianSalary": 136000,
+    "entryLevel": 91000,
+    "midLevel": 140000,
+    "seniorLevel": 196000,
+    "byState": {
+      "NSW": 147000,
+      "VIC": 143000,
+      "QLD": 133000,
+      "WA": 151000,
+      "SA": 129000,
+      "TAS": 123000,
+      "ACT": 154000,
+      "NT": 144000
+    },
+    "growth": "+22%",
+    "demand": "Very High",
+    "relatedRoles": [
+      "Data Scientist",
+      "AI Engineer",
+      "Data Engineer"
+    ]
+  },
+  {
+    "slug": "data-engineer",
+    "title": "Data Engineer",
+    "category": "Technology",
+    "description": "Build data pipelines and infrastructure for analytics and ML teams.",
+    "averageSalary": 125000,
+    "medianSalary": 121000,
+    "entryLevel": 81000,
+    "midLevel": 125000,
+    "seniorLevel": 175000,
+    "byState": {
+      "NSW": 131000,
+      "VIC": 128000,
+      "QLD": 119000,
+      "WA": 135000,
+      "SA": 115000,
+      "TAS": 110000,
+      "ACT": 138000,
+      "NT": 129000
+    },
+    "growth": "+16%",
+    "demand": "High",
+    "relatedRoles": [
+      "Data Scientist",
+      "Backend Developer",
+      "Cloud Engineer"
+    ]
+  },
+  {
+    "slug": "it-support-specialist",
+    "title": "IT Support Specialist",
+    "category": "Technology",
+    "description": "Provide technical support and troubleshoot hardware/software issues.",
+    "averageSalary": 65000,
+    "medianSalary": 63000,
+    "entryLevel": 42000,
+    "midLevel": 65000,
+    "seniorLevel": 91000,
+    "byState": {
+      "NSW": 68000,
+      "VIC": 66000,
+      "QLD": 62000,
+      "WA": 70000,
+      "SA": 60000,
+      "TAS": 57000,
+      "ACT": 72000,
+      "NT": 67000
+    },
+    "growth": "+5%",
+    "demand": "Medium",
+    "relatedRoles": [
+      "System Administrator",
+      "Help Desk Technician",
+      "Network Technician"
+    ]
+  },
+  {
+    "slug": "system-administrator",
+    "title": "System Administrator",
+    "category": "Technology",
+    "description": "Maintain and configure servers, networks, and IT infrastructure.",
+    "averageSalary": 90000,
+    "medianSalary": 87000,
+    "entryLevel": 59000,
+    "midLevel": 90000,
+    "seniorLevel": 126000,
+    "byState": {
+      "NSW": 95000,
+      "VIC": 92000,
+      "QLD": 86000,
+      "WA": 97000,
+      "SA": 83000,
+      "TAS": 79000,
+      "ACT": 99000,
+      "NT": 93000
+    },
+    "growth": "+6%",
+    "demand": "Medium",
+    "relatedRoles": [
+      "DevOps Engineer",
+      "IT Support Specialist",
+      "Network Engineer"
+    ]
+  },
+  {
+    "slug": "solutions-architect",
+    "title": "Solutions Architect",
+    "category": "Technology",
+    "description": "Design end-to-end technical solutions aligned with business requirements.",
+    "averageSalary": 155000,
+    "medianSalary": 150000,
+    "entryLevel": 101000,
+    "midLevel": 155000,
+    "seniorLevel": 217000,
+    "byState": {
+      "NSW": 163000,
+      "VIC": 158000,
+      "QLD": 147000,
+      "WA": 167000,
+      "SA": 143000,
+      "TAS": 136000,
+      "ACT": 171000,
+      "NT": 160000
+    },
+    "growth": "+13%",
+    "demand": "High",
+    "relatedRoles": [
+      "Cloud Engineer",
+      "Enterprise Architect",
+      "Technical Lead"
+    ]
+  },
+  {
+    "slug": "qa-engineer",
+    "title": "QA Engineer",
+    "category": "Technology",
+    "description": "Ensure software quality through testing strategies and automation.",
+    "averageSalary": 95000,
+    "medianSalary": 92000,
+    "entryLevel": 62000,
+    "midLevel": 95000,
+    "seniorLevel": 133000,
+    "byState": {
+      "NSW": 100000,
+      "VIC": 97000,
+      "QLD": 90000,
+      "WA": 103000,
+      "SA": 87000,
+      "TAS": 84000,
+      "ACT": 105000,
+      "NT": 98000
+    },
+    "growth": "+8%",
+    "demand": "Medium",
+    "relatedRoles": [
+      "Software Engineer",
+      "SDET",
+      "Test Analyst"
+    ]
+  },
+  {
+    "slug": "product-manager",
+    "title": "Product Manager",
+    "category": "Technology",
+    "description": "Drive product strategy, roadmap, and cross-functional delivery.",
+    "averageSalary": 140000,
+    "medianSalary": 136000,
+    "entryLevel": 91000,
+    "midLevel": 140000,
+    "seniorLevel": 196000,
+    "byState": {
+      "NSW": 147000,
+      "VIC": 143000,
+      "QLD": 133000,
+      "WA": 151000,
+      "SA": 129000,
+      "TAS": 123000,
+      "ACT": 154000,
+      "NT": 144000
+    },
+    "growth": "+10%",
+    "demand": "High",
+    "relatedRoles": [
+      "Business Analyst",
+      "Project Manager",
+      "UX Designer"
+    ]
+  },
+  {
+    "slug": "registered-nurse",
+    "title": "Registered Nurse",
+    "category": "Healthcare",
+    "description": "Provide patient care in hospitals, clinics, and community settings.",
+    "averageSalary": 75000,
+    "medianSalary": 73000,
+    "entryLevel": 49000,
+    "midLevel": 75000,
+    "seniorLevel": 105000,
+    "byState": {
+      "NSW": 79000,
+      "VIC": 77000,
+      "QLD": 71000,
+      "WA": 81000,
+      "SA": 69000,
+      "TAS": 66000,
+      "ACT": 83000,
+      "NT": 77000
+    },
+    "growth": "+8%",
+    "demand": "Very High",
+    "relatedRoles": [
+      "Enrolled Nurse",
+      "Nurse Practitioner",
+      "Midwife"
+    ]
+  },
+  {
+    "slug": "general-practitioner",
+    "title": "General Practitioner",
+    "category": "Healthcare",
+    "description": "Diagnose and treat a wide range of health conditions in primary care.",
+    "averageSalary": 200000,
+    "medianSalary": 194000,
+    "entryLevel": 130000,
+    "midLevel": 200000,
+    "seniorLevel": 280000,
+    "byState": {
+      "NSW": 210000,
+      "VIC": 204000,
+      "QLD": 190000,
+      "WA": 216000,
+      "SA": 184000,
+      "TAS": 176000,
+      "ACT": 220000,
+      "NT": 206000
+    },
+    "growth": "+5%",
+    "demand": "High",
+    "relatedRoles": [
+      "Specialist Doctor",
+      "Nurse Practitioner",
+      "Pharmacist"
+    ]
+  },
+  {
+    "slug": "pharmacist",
+    "title": "Pharmacist",
+    "category": "Healthcare",
+    "description": "Dispense medications and provide pharmaceutical care advice.",
+    "averageSalary": 85000,
+    "medianSalary": 82000,
+    "entryLevel": 55000,
+    "midLevel": 85000,
+    "seniorLevel": 119000,
+    "byState": {
+      "NSW": 89000,
+      "VIC": 87000,
+      "QLD": 81000,
+      "WA": 92000,
+      "SA": 78000,
+      "TAS": 75000,
+      "ACT": 94000,
+      "NT": 88000
+    },
+    "growth": "+4%",
+    "demand": "Medium",
+    "relatedRoles": [
+      "General Practitioner",
+      "Pharmacy Technician",
+      "Clinical Pharmacologist"
+    ]
+  },
+  {
+    "slug": "physiotherapist",
+    "title": "Physiotherapist",
+    "category": "Healthcare",
+    "description": "Treat physical conditions through exercise, manual therapy, and education.",
+    "averageSalary": 80000,
+    "medianSalary": 78000,
+    "entryLevel": 52000,
+    "midLevel": 80000,
+    "seniorLevel": 112000,
+    "byState": {
+      "NSW": 84000,
+      "VIC": 82000,
+      "QLD": 76000,
+      "WA": 86000,
+      "SA": 74000,
+      "TAS": 70000,
+      "ACT": 88000,
+      "NT": 82000
+    },
+    "growth": "+7%",
+    "demand": "High",
+    "relatedRoles": [
+      "Occupational Therapist",
+      "Exercise Physiologist",
+      "Sports Scientist"
+    ]
+  },
+  {
+    "slug": "dentist",
+    "title": "Dentist",
+    "category": "Healthcare",
+    "description": "Diagnose and treat dental conditions and perform oral surgery.",
+    "averageSalary": 150000,
+    "medianSalary": 146000,
+    "entryLevel": 98000,
+    "midLevel": 150000,
+    "seniorLevel": 210000,
+    "byState": {
+      "NSW": 158000,
+      "VIC": 153000,
+      "QLD": 143000,
+      "WA": 162000,
+      "SA": 138000,
+      "TAS": 132000,
+      "ACT": 165000,
+      "NT": 155000
+    },
+    "growth": "+6%",
+    "demand": "Medium",
+    "relatedRoles": [
+      "Dental Hygienist",
+      "Orthodontist",
+      "Oral Surgeon"
+    ]
+  },
+  {
+    "slug": "psychologist",
+    "title": "Psychologist",
+    "category": "Healthcare",
+    "description": "Assess and treat mental health conditions through therapy and counseling.",
+    "averageSalary": 95000,
+    "medianSalary": 92000,
+    "entryLevel": 62000,
+    "midLevel": 95000,
+    "seniorLevel": 133000,
+    "byState": {
+      "NSW": 100000,
+      "VIC": 97000,
+      "QLD": 90000,
+      "WA": 103000,
+      "SA": 87000,
+      "TAS": 84000,
+      "ACT": 105000,
+      "NT": 98000
+    },
+    "growth": "+9%",
+    "demand": "High",
+    "relatedRoles": [
+      "Counsellor",
+      "Psychiatrist",
+      "Social Worker"
+    ]
+  },
+  {
+    "slug": "paramedic",
+    "title": "Paramedic",
+    "category": "Healthcare",
+    "description": "Provide emergency medical care and transport patients.",
+    "averageSalary": 78000,
+    "medianSalary": 76000,
+    "entryLevel": 51000,
+    "midLevel": 78000,
+    "seniorLevel": 109000,
+    "byState": {
+      "NSW": 82000,
+      "VIC": 80000,
+      "QLD": 74000,
+      "WA": 84000,
+      "SA": 72000,
+      "TAS": 69000,
+      "ACT": 86000,
+      "NT": 80000
+    },
+    "growth": "+7%",
+    "demand": "High",
+    "relatedRoles": [
+      "Registered Nurse",
+      "Emergency Medicine Doctor",
+      "Flight Paramedic"
+    ]
+  },
+  {
+    "slug": "medical-laboratory-scientist",
+    "title": "Medical Laboratory Scientist",
+    "category": "Healthcare",
+    "description": "Perform diagnostic tests on blood, tissue, and body fluids.",
+    "averageSalary": 82000,
+    "medianSalary": 80000,
+    "entryLevel": 53000,
+    "midLevel": 82000,
+    "seniorLevel": 115000,
+    "byState": {
+      "NSW": 86000,
+      "VIC": 84000,
+      "QLD": 78000,
+      "WA": 89000,
+      "SA": 75000,
+      "TAS": 72000,
+      "ACT": 90000,
+      "NT": 84000
+    },
+    "growth": "+5%",
+    "demand": "Medium",
+    "relatedRoles": [
+      "Pathologist",
+      "Biomedical Scientist",
+      "Research Scientist"
+    ]
+  },
+  {
+    "slug": "accountant",
+    "title": "Accountant",
+    "category": "Finance",
+    "description": "Prepare financial statements, tax returns, and business advisory.",
+    "averageSalary": 80000,
+    "medianSalary": 78000,
+    "entryLevel": 52000,
+    "midLevel": 80000,
+    "seniorLevel": 112000,
+    "byState": {
+      "NSW": 84000,
+      "VIC": 82000,
+      "QLD": 76000,
+      "WA": 86000,
+      "SA": 74000,
+      "TAS": 70000,
+      "ACT": 88000,
+      "NT": 82000
+    },
+    "growth": "+4%",
+    "demand": "Medium",
+    "relatedRoles": [
+      "Financial Analyst",
+      "Bookkeeper",
+      "Tax Accountant"
+    ]
+  },
+  {
+    "slug": "financial-analyst",
+    "title": "Financial Analyst",
+    "category": "Finance",
+    "description": "Analyze financial data and build models to support investment decisions.",
+    "averageSalary": 95000,
+    "medianSalary": 92000,
+    "entryLevel": 62000,
+    "midLevel": 95000,
+    "seniorLevel": 133000,
+    "byState": {
+      "NSW": 100000,
+      "VIC": 97000,
+      "QLD": 90000,
+      "WA": 103000,
+      "SA": 87000,
+      "TAS": 84000,
+      "ACT": 105000,
+      "NT": 98000
+    },
+    "growth": "+6%",
+    "demand": "Medium",
+    "relatedRoles": [
+      "Accountant",
+      "Investment Analyst",
+      "Risk Analyst"
+    ]
+  },
+  {
+    "slug": "financial-planner",
+    "title": "Financial Planner",
+    "category": "Finance",
+    "description": "Provide personal financial advice on investments, insurance, and retirement.",
+    "averageSalary": 90000,
+    "medianSalary": 87000,
+    "entryLevel": 59000,
+    "midLevel": 90000,
+    "seniorLevel": 126000,
+    "byState": {
+      "NSW": 95000,
+      "VIC": 92000,
+      "QLD": 86000,
+      "WA": 97000,
+      "SA": 83000,
+      "TAS": 79000,
+      "ACT": 99000,
+      "NT": 93000
+    },
+    "growth": "+8%",
+    "demand": "High",
+    "relatedRoles": [
+      "Wealth Manager",
+      "Accountant",
+      "Financial Analyst"
+    ]
+  },
+  {
+    "slug": "actuary",
+    "title": "Actuary",
+    "category": "Finance",
+    "description": "Use mathematics and statistics to assess risk for insurance and finance.",
+    "averageSalary": 130000,
+    "medianSalary": 126000,
+    "entryLevel": 85000,
+    "midLevel": 130000,
+    "seniorLevel": 182000,
+    "byState": {
+      "NSW": 137000,
+      "VIC": 133000,
+      "QLD": 124000,
+      "WA": 140000,
+      "SA": 120000,
+      "TAS": 114000,
+      "ACT": 143000,
+      "NT": 134000
+    },
+    "growth": "+10%",
+    "demand": "High",
+    "relatedRoles": [
+      "Risk Analyst",
+      "Data Scientist",
+      "Financial Analyst"
+    ]
+  },
+  {
+    "slug": "investment-banker",
+    "title": "Investment Banker",
+    "category": "Finance",
+    "description": "Advise on mergers, acquisitions, and capital raising.",
+    "averageSalary": 150000,
+    "medianSalary": 146000,
+    "entryLevel": 98000,
+    "midLevel": 150000,
+    "seniorLevel": 210000,
+    "byState": {
+      "NSW": 158000,
+      "VIC": 153000,
+      "QLD": 143000,
+      "WA": 162000,
+      "SA": 138000,
+      "TAS": 132000,
+      "ACT": 165000,
+      "NT": 155000
+    },
+    "growth": "+5%",
+    "demand": "Medium",
+    "relatedRoles": [
+      "Financial Analyst",
+      "Corporate Finance Manager",
+      "Equity Analyst"
+    ]
+  },
+  {
+    "slug": "risk-analyst",
+    "title": "Risk Analyst",
+    "category": "Finance",
+    "description": "Identify and assess business and financial risks.",
+    "averageSalary": 100000,
+    "medianSalary": 97000,
+    "entryLevel": 65000,
+    "midLevel": 100000,
+    "seniorLevel": 140000,
+    "byState": {
+      "NSW": 105000,
+      "VIC": 102000,
+      "QLD": 95000,
+      "WA": 108000,
+      "SA": 92000,
+      "TAS": 88000,
+      "ACT": 110000,
+      "NT": 103000
+    },
+    "growth": "+9%",
+    "demand": "High",
+    "relatedRoles": [
+      "Actuary",
+      "Compliance Officer",
+      "Financial Analyst"
+    ]
+  },
+  {
+    "slug": "civil-engineer",
+    "title": "Civil Engineer",
+    "category": "Engineering",
+    "description": "Design and oversee construction of infrastructure projects.",
+    "averageSalary": 95000,
+    "medianSalary": 92000,
+    "entryLevel": 62000,
+    "midLevel": 95000,
+    "seniorLevel": 133000,
+    "byState": {
+      "NSW": 100000,
+      "VIC": 97000,
+      "QLD": 90000,
+      "WA": 103000,
+      "SA": 87000,
+      "TAS": 84000,
+      "ACT": 105000,
+      "NT": 98000
+    },
+    "growth": "+6%",
+    "demand": "High",
+    "relatedRoles": [
+      "Structural Engineer",
+      "Project Engineer",
+      "Urban Planner"
+    ]
+  },
+  {
+    "slug": "mechanical-engineer",
+    "title": "Mechanical Engineer",
+    "category": "Engineering",
+    "description": "Design and develop mechanical systems and manufacturing processes.",
+    "averageSalary": 95000,
+    "medianSalary": 92000,
+    "entryLevel": 62000,
+    "midLevel": 95000,
+    "seniorLevel": 133000,
+    "byState": {
+      "NSW": 100000,
+      "VIC": 97000,
+      "QLD": 90000,
+      "WA": 103000,
+      "SA": 87000,
+      "TAS": 84000,
+      "ACT": 105000,
+      "NT": 98000
+    },
+    "growth": "+5%",
+    "demand": "Medium",
+    "relatedRoles": [
+      "Electrical Engineer",
+      "Civil Engineer",
+      "Industrial Engineer"
+    ]
+  },
+  {
+    "slug": "electrical-engineer",
+    "title": "Electrical Engineer",
+    "category": "Engineering",
+    "description": "Design electrical systems for power, communications, and electronics.",
+    "averageSalary": 100000,
+    "medianSalary": 97000,
+    "entryLevel": 65000,
+    "midLevel": 100000,
+    "seniorLevel": 140000,
+    "byState": {
+      "NSW": 105000,
+      "VIC": 102000,
+      "QLD": 95000,
+      "WA": 108000,
+      "SA": 92000,
+      "TAS": 88000,
+      "ACT": 110000,
+      "NT": 103000
+    },
+    "growth": "+7%",
+    "demand": "High",
+    "relatedRoles": [
+      "Mechanical Engineer",
+      "Electronics Engineer",
+      "Power Systems Engineer"
+    ]
+  },
+  {
+    "slug": "mining-engineer",
+    "title": "Mining Engineer",
+    "category": "Engineering",
+    "description": "Plan and manage mining operations and mineral extraction.",
+    "averageSalary": 140000,
+    "medianSalary": 136000,
+    "entryLevel": 91000,
+    "midLevel": 140000,
+    "seniorLevel": 196000,
+    "byState": {
+      "NSW": 147000,
+      "VIC": 143000,
+      "QLD": 133000,
+      "WA": 151000,
+      "SA": 129000,
+      "TAS": 123000,
+      "ACT": 154000,
+      "NT": 144000
+    },
+    "growth": "+8%",
+    "demand": "High",
+    "relatedRoles": [
+      "Geologist",
+      "Civil Engineer",
+      "Environmental Engineer"
+    ]
+  },
+  {
+    "slug": "environmental-engineer",
+    "title": "Environmental Engineer",
+    "category": "Engineering",
+    "description": "Develop solutions to environmental problems including waste and pollution.",
+    "averageSalary": 95000,
+    "medianSalary": 92000,
+    "entryLevel": 62000,
+    "midLevel": 95000,
+    "seniorLevel": 133000,
+    "byState": {
+      "NSW": 100000,
+      "VIC": 97000,
+      "QLD": 90000,
+      "WA": 103000,
+      "SA": 87000,
+      "TAS": 84000,
+      "ACT": 105000,
+      "NT": 98000
+    },
+    "growth": "+9%",
+    "demand": "High",
+    "relatedRoles": [
+      "Civil Engineer",
+      "Environmental Scientist",
+      "Sustainability Consultant"
+    ]
+  },
+  {
+    "slug": "primary-school-teacher",
+    "title": "Primary School Teacher",
+    "category": "Education",
+    "description": "Teach children from Kindergarten to Year 6 across all subjects.",
+    "averageSalary": 78000,
+    "medianSalary": 76000,
+    "entryLevel": 51000,
+    "midLevel": 78000,
+    "seniorLevel": 109000,
+    "byState": {
+      "NSW": 82000,
+      "VIC": 80000,
+      "QLD": 74000,
+      "WA": 84000,
+      "SA": 72000,
+      "TAS": 69000,
+      "ACT": 86000,
+      "NT": 80000
+    },
+    "growth": "+4%",
+    "demand": "High",
+    "relatedRoles": [
+      "Secondary School Teacher",
+      "Special Education Teacher",
+      "Early Childhood Educator"
+    ]
+  },
+  {
+    "slug": "secondary-school-teacher",
+    "title": "Secondary School Teacher",
+    "category": "Education",
+    "description": "Teach specialist subjects to students in Years 7-12.",
+    "averageSalary": 82000,
+    "medianSalary": 80000,
+    "entryLevel": 53000,
+    "midLevel": 82000,
+    "seniorLevel": 115000,
+    "byState": {
+      "NSW": 86000,
+      "VIC": 84000,
+      "QLD": 78000,
+      "WA": 89000,
+      "SA": 75000,
+      "TAS": 72000,
+      "ACT": 90000,
+      "NT": 84000
+    },
+    "growth": "+4%",
+    "demand": "High",
+    "relatedRoles": [
+      "Primary School Teacher",
+      "University Lecturer",
+      "Tutor"
+    ]
+  },
+  {
+    "slug": "university-lecturer",
+    "title": "University Lecturer",
+    "category": "Education",
+    "description": "Teach and conduct research at university level.",
+    "averageSalary": 110000,
+    "medianSalary": 107000,
+    "entryLevel": 72000,
+    "midLevel": 110000,
+    "seniorLevel": 154000,
+    "byState": {
+      "NSW": 116000,
+      "VIC": 112000,
+      "QLD": 105000,
+      "WA": 119000,
+      "SA": 101000,
+      "TAS": 97000,
+      "ACT": 121000,
+      "NT": 113000
+    },
+    "growth": "+3%",
+    "demand": "Medium",
+    "relatedRoles": [
+      "Professor",
+      "Research Fellow",
+      "Secondary School Teacher"
+    ]
+  },
+  {
+    "slug": "early-childhood-educator",
+    "title": "Early Childhood Educator",
+    "category": "Education",
+    "description": "Care for and educate children aged 0-5 in childcare settings.",
+    "averageSalary": 58000,
+    "medianSalary": 56000,
+    "entryLevel": 38000,
+    "midLevel": 58000,
+    "seniorLevel": 81000,
+    "byState": {
+      "NSW": 61000,
+      "VIC": 59000,
+      "QLD": 55000,
+      "WA": 63000,
+      "SA": 53000,
+      "TAS": 51000,
+      "ACT": 64000,
+      "NT": 60000
+    },
+    "growth": "+6%",
+    "demand": "High",
+    "relatedRoles": [
+      "Primary School Teacher",
+      "Childcare Centre Director",
+      "Nanny"
+    ]
+  },
+  {
+    "slug": "electrician",
+    "title": "Electrician",
+    "category": "Trades & Construction",
+    "description": "Install, maintain, and repair electrical wiring and systems.",
+    "averageSalary": 85000,
+    "medianSalary": 82000,
+    "entryLevel": 55000,
+    "midLevel": 85000,
+    "seniorLevel": 119000,
+    "byState": {
+      "NSW": 89000,
+      "VIC": 87000,
+      "QLD": 81000,
+      "WA": 92000,
+      "SA": 78000,
+      "TAS": 75000,
+      "ACT": 94000,
+      "NT": 88000
+    },
+    "growth": "+7%",
+    "demand": "Very High",
+    "relatedRoles": [
+      "Plumber",
+      "HVAC Technician",
+      "Electrical Engineer"
+    ]
+  },
+  {
+    "slug": "plumber",
+    "title": "Plumber",
+    "category": "Trades & Construction",
+    "description": "Install and maintain water, gas, and drainage systems.",
+    "averageSalary": 82000,
+    "medianSalary": 80000,
+    "entryLevel": 53000,
+    "midLevel": 82000,
+    "seniorLevel": 115000,
+    "byState": {
+      "NSW": 86000,
+      "VIC": 84000,
+      "QLD": 78000,
+      "WA": 89000,
+      "SA": 75000,
+      "TAS": 72000,
+      "ACT": 90000,
+      "NT": 84000
+    },
+    "growth": "+6%",
+    "demand": "Very High",
+    "relatedRoles": [
+      "Electrician",
+      "Gasfitter",
+      "Civil Engineer"
+    ]
+  },
+  {
+    "slug": "carpenter",
+    "title": "Carpenter",
+    "category": "Trades & Construction",
+    "description": "Build and repair structures and fittings made from wood and other materials.",
+    "averageSalary": 75000,
+    "medianSalary": 73000,
+    "entryLevel": 49000,
+    "midLevel": 75000,
+    "seniorLevel": 105000,
+    "byState": {
+      "NSW": 79000,
+      "VIC": 77000,
+      "QLD": 71000,
+      "WA": 81000,
+      "SA": 69000,
+      "TAS": 66000,
+      "ACT": 83000,
+      "NT": 77000
+    },
+    "growth": "+5%",
+    "demand": "High",
+    "relatedRoles": [
+      "Builder",
+      "Cabinet Maker",
+      "Joiner"
+    ]
+  },
+  {
+    "slug": "builder",
+    "title": "Builder",
+    "category": "Trades & Construction",
+    "description": "Manage and oversee residential and commercial building projects.",
+    "averageSalary": 95000,
+    "medianSalary": 92000,
+    "entryLevel": 62000,
+    "midLevel": 95000,
+    "seniorLevel": 133000,
+    "byState": {
+      "NSW": 100000,
+      "VIC": 97000,
+      "QLD": 90000,
+      "WA": 103000,
+      "SA": 87000,
+      "TAS": 84000,
+      "ACT": 105000,
+      "NT": 98000
+    },
+    "growth": "+5%",
+    "demand": "High",
+    "relatedRoles": [
+      "Carpenter",
+      "Project Manager",
+      "Civil Engineer"
+    ]
+  },
+  {
+    "slug": "diesel-mechanic",
+    "title": "Diesel Mechanic",
+    "category": "Trades & Construction",
+    "description": "Maintain and repair diesel engines in trucks, buses, and heavy equipment.",
+    "averageSalary": 85000,
+    "medianSalary": 82000,
+    "entryLevel": 55000,
+    "midLevel": 85000,
+    "seniorLevel": 119000,
+    "byState": {
+      "NSW": 89000,
+      "VIC": 87000,
+      "QLD": 81000,
+      "WA": 92000,
+      "SA": 78000,
+      "TAS": 75000,
+      "ACT": 94000,
+      "NT": 88000
+    },
+    "growth": "+6%",
+    "demand": "High",
+    "relatedRoles": [
+      "Motor Mechanic",
+      "Heavy Vehicle Technician",
+      "Mining Mechanic"
+    ]
+  },
+  {
+    "slug": "solicitor",
+    "title": "Solicitor",
+    "category": "Legal",
+    "description": "Provide legal advice and represent clients in legal matters.",
+    "averageSalary": 95000,
+    "medianSalary": 92000,
+    "entryLevel": 62000,
+    "midLevel": 95000,
+    "seniorLevel": 133000,
+    "byState": {
+      "NSW": 100000,
+      "VIC": 97000,
+      "QLD": 90000,
+      "WA": 103000,
+      "SA": 87000,
+      "TAS": 84000,
+      "ACT": 105000,
+      "NT": 98000
+    },
+    "growth": "+4%",
+    "demand": "Medium",
+    "relatedRoles": [
+      "Barrister",
+      "Paralegal",
+      "Legal Counsel"
+    ]
+  },
+  {
+    "slug": "barrister",
+    "title": "Barrister",
+    "category": "Legal",
+    "description": "Represent clients in court and provide specialist legal opinions.",
+    "averageSalary": 160000,
+    "medianSalary": 155000,
+    "entryLevel": 104000,
+    "midLevel": 160000,
+    "seniorLevel": 224000,
+    "byState": {
+      "NSW": 168000,
+      "VIC": 163000,
+      "QLD": 152000,
+      "WA": 173000,
+      "SA": 147000,
+      "TAS": 141000,
+      "ACT": 176000,
+      "NT": 165000
+    },
+    "growth": "+3%",
+    "demand": "Low",
+    "relatedRoles": [
+      "Solicitor",
+      "Judge",
+      "Legal Counsel"
+    ]
+  },
+  {
+    "slug": "paralegal",
+    "title": "Paralegal",
+    "category": "Legal",
+    "description": "Support lawyers with legal research, document preparation, and case management.",
+    "averageSalary": 65000,
+    "medianSalary": 63000,
+    "entryLevel": 42000,
+    "midLevel": 65000,
+    "seniorLevel": 91000,
+    "byState": {
+      "NSW": 68000,
+      "VIC": 66000,
+      "QLD": 62000,
+      "WA": 70000,
+      "SA": 60000,
+      "TAS": 57000,
+      "ACT": 72000,
+      "NT": 67000
+    },
+    "growth": "+5%",
+    "demand": "Medium",
+    "relatedRoles": [
+      "Solicitor",
+      "Legal Secretary",
+      "Compliance Officer"
+    ]
+  },
+  {
+    "slug": "marketing-manager",
+    "title": "Marketing Manager",
+    "category": "Marketing & Creative",
+    "description": "Develop and execute marketing strategies across channels.",
+    "averageSalary": 110000,
+    "medianSalary": 107000,
+    "entryLevel": 72000,
+    "midLevel": 110000,
+    "seniorLevel": 154000,
+    "byState": {
+      "NSW": 116000,
+      "VIC": 112000,
+      "QLD": 105000,
+      "WA": 119000,
+      "SA": 101000,
+      "TAS": 97000,
+      "ACT": 121000,
+      "NT": 113000
+    },
+    "growth": "+7%",
+    "demand": "High",
+    "relatedRoles": [
+      "Digital Marketing Specialist",
+      "Brand Manager",
+      "Product Manager"
+    ]
+  },
+  {
+    "slug": "digital-marketing-specialist",
+    "title": "Digital Marketing Specialist",
+    "category": "Marketing & Creative",
+    "description": "Manage SEO, SEM, social media, and email marketing campaigns.",
+    "averageSalary": 75000,
+    "medianSalary": 73000,
+    "entryLevel": 49000,
+    "midLevel": 75000,
+    "seniorLevel": 105000,
+    "byState": {
+      "NSW": 79000,
+      "VIC": 77000,
+      "QLD": 71000,
+      "WA": 81000,
+      "SA": 69000,
+      "TAS": 66000,
+      "ACT": 83000,
+      "NT": 77000
+    },
+    "growth": "+10%",
+    "demand": "High",
+    "relatedRoles": [
+      "Marketing Manager",
+      "Content Writer",
+      "SEO Specialist"
+    ]
+  },
+  {
+    "slug": "ux-designer",
+    "title": "UX Designer",
+    "category": "Marketing & Creative",
+    "description": "Design user experiences for digital products through research and prototyping.",
+    "averageSalary": 105000,
+    "medianSalary": 102000,
+    "entryLevel": 68000,
+    "midLevel": 105000,
+    "seniorLevel": 147000,
+    "byState": {
+      "NSW": 110000,
+      "VIC": 107000,
+      "QLD": 100000,
+      "WA": 113000,
+      "SA": 97000,
+      "TAS": 92000,
+      "ACT": 116000,
+      "NT": 108000
+    },
+    "growth": "+12%",
+    "demand": "High",
+    "relatedRoles": [
+      "UI Designer",
+      "Product Manager",
+      "Frontend Developer"
+    ]
+  },
+  {
+    "slug": "graphic-designer",
+    "title": "Graphic Designer",
+    "category": "Marketing & Creative",
+    "description": "Create visual content for print and digital media.",
+    "averageSalary": 70000,
+    "medianSalary": 68000,
+    "entryLevel": 46000,
+    "midLevel": 70000,
+    "seniorLevel": 98000,
+    "byState": {
+      "NSW": 74000,
+      "VIC": 71000,
+      "QLD": 67000,
+      "WA": 76000,
+      "SA": 64000,
+      "TAS": 62000,
+      "ACT": 77000,
+      "NT": 72000
+    },
+    "growth": "+3%",
+    "demand": "Medium",
+    "relatedRoles": [
+      "UX Designer",
+      "Art Director",
+      "Web Designer"
+    ]
+  },
+  {
+    "slug": "content-writer",
+    "title": "Content Writer",
+    "category": "Marketing & Creative",
+    "description": "Create written content for websites, blogs, and marketing materials.",
+    "averageSalary": 65000,
+    "medianSalary": 63000,
+    "entryLevel": 42000,
+    "midLevel": 65000,
+    "seniorLevel": 91000,
+    "byState": {
+      "NSW": 68000,
+      "VIC": 66000,
+      "QLD": 62000,
+      "WA": 70000,
+      "SA": 60000,
+      "TAS": 57000,
+      "ACT": 72000,
+      "NT": 67000
+    },
+    "growth": "+5%",
+    "demand": "Medium",
+    "relatedRoles": [
+      "Copywriter",
+      "Digital Marketing Specialist",
+      "Journalist"
+    ]
+  }
+]
