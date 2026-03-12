@@ -1,27 +1,25 @@
 import salaries from "@/data/salaries.json";
 import categories from "@/data/categories.json";
 import Link from "next/link";
+import SearchBox from "@/components/SearchBox";
 
 export default function Home() {
   const topPaying = [...salaries].sort((a, b) => b.averageSalary - a.averageSalary).slice(0, 10);
-  const highDemand = salaries.filter((s) => s.demand === "Very High");
+  const searchRoles = salaries.map(({ slug, title, category, averageSalary }) => ({ slug, title, category, averageSalary }));
 
   return (
     <div className="space-y-10">
-      {/* Hero */}
+      {/* Hero + Search */}
       <div className="hero bg-base-100 rounded-box p-8">
-        <div className="hero-content text-center">
+        <div className="hero-content text-center flex-col">
           <div className="max-w-2xl">
             <h1 className="text-4xl font-bold">Australian Job Salary Database</h1>
             <p className="py-4 text-lg">
               Compare salaries across <strong>{salaries.length} roles</strong> in{" "}
-              <strong>{categories.length} industries</strong>. Find out what you should be earning
-              by role, state, and experience level.
+              <strong>{categories.length} industries</strong>. Real data from ABS Employee Earnings survey.
             </p>
-            <Link href="/categories" className="btn btn-primary">
-              Browse by Industry →
-            </Link>
           </div>
+          <SearchBox roles={searchRoles} />
         </div>
       </div>
 
@@ -58,7 +56,6 @@ export default function Home() {
                 <th>Role</th>
                 <th>Industry</th>
                 <th>Average Salary</th>
-                <th>Demand</th>
               </tr>
             </thead>
             <tbody>
@@ -72,34 +69,10 @@ export default function Home() {
                   </td>
                   <td>{role.category}</td>
                   <td className="font-mono">${role.averageSalary.toLocaleString()}</td>
-                  <td>
-                    <span className={`badge ${role.demand === "Very High" ? "badge-error" : role.demand === "High" ? "badge-warning" : "badge-ghost"}`}>
-                      {role.demand}
-                    </span>
-                  </td>
                 </tr>
               ))}
             </tbody>
           </table>
-        </div>
-      </section>
-
-      {/* High Demand */}
-      <section>
-        <h2 className="text-2xl font-bold mb-4">🔥 Very High Demand Roles</h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-          {highDemand.map((role) => (
-            <Link href={`/role/${role.slug}`} key={role.slug} className="card bg-base-100 shadow hover:shadow-lg transition-shadow">
-              <div className="card-body">
-                <h3 className="card-title text-sm">{role.title}</h3>
-                <p className="text-xs text-base-content/60">{role.category}</p>
-                <div className="flex justify-between items-center mt-2">
-                  <span className="font-mono text-lg">${(role.averageSalary / 1000).toFixed(0)}k</span>
-                  <span className="text-success text-sm">{role.growth} growth</span>
-                </div>
-              </div>
-            </Link>
-          ))}
         </div>
       </section>
 

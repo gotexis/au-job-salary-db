@@ -28,7 +28,27 @@ export default async function RolePage({ params }: Props) {
   const maxState = states[0][1];
   const related = salaries.filter((r) => role.relatedRoles.includes(r.title));
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "OccupationAggregationByEmployer",
+    name: role.title,
+    mainEntityOfPage: { "@type": "WebPage", "@id": `https://salary.rollersoft.com.au/role/${role.slug}` },
+    description: role.description,
+    estimatedSalary: {
+      "@type": "MonetaryAmountDistribution",
+      name: "base",
+      currency: "AUD",
+      unitText: "YEAR",
+      percentile10: role.entryLevel,
+      median: role.medianSalary,
+      percentile90: role.seniorLevel,
+    },
+    occupationLocation: { "@type": "Country", name: "Australia" },
+  };
+
   return (
+    <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
     <div className="space-y-8">
       <div className="breadcrumbs text-sm">
         <ul>
@@ -52,10 +72,6 @@ export default async function RolePage({ params }: Props) {
             <div className="stat">
               <div className="stat-title">Median</div>
               <div className="stat-value">${role.medianSalary.toLocaleString()}</div>
-            </div>
-            <div className="stat">
-              <div className="stat-title">Growth</div>
-              <div className="stat-value text-success">{role.growth}</div>
             </div>
             <div className="stat">
               <div className="stat-title">Demand</div>
@@ -143,5 +159,6 @@ export default async function RolePage({ params }: Props) {
         </div>
       )}
     </div>
+    </>
   );
 }
