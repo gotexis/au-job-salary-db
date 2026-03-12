@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "AU Job Salary Database — Salary by Role, State & Experience | Australia",
   description:
-    "Compare Australian salaries by job title, state, and experience level. Explore 50+ roles across 8 industries with detailed pay ranges, trends, and cost of living data.",
+    "Compare Australian salaries by job title, state, and experience level. Explore 342+ roles across 8 industries with detailed pay ranges, trends, and a salary after tax calculator.",
   keywords: "australian salary, salary comparison, job salary australia, pay by role, salary by state",
 };
 
@@ -20,6 +20,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <li><a href="/">Home</a></li>
                 <li><a href="/categories">Industries</a></li>
                 <li><a href="/compare">Compare</a></li>
+                <li><a href="/tools/salary-calculator">Tax Calculator</a></li>
               </ul>
             </div>
           </div>
