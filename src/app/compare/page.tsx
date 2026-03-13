@@ -60,12 +60,6 @@ export default function ComparePage() {
                 );
               })}
               <tr>
-                <td className="font-medium">Growth</td>
-                <td>{a.growth}</td>
-                <td>{b.growth}</td>
-                <td></td>
-              </tr>
-              <tr>
                 <td className="font-medium">Demand</td>
                 <td>{a.demand}</td>
                 <td>{b.demand}</td>

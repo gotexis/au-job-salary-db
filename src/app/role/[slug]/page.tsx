@@ -15,7 +15,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!role) return {};
   return {
     title: `${role.title} Salary Australia 2026 — Average Pay, By State & Experience`,
-    description: `${role.title} average salary in Australia is $${role.averageSalary.toLocaleString()}. See salary by state, experience level, growth outlook, and compare with related roles.`,
+    description: `${role.title} average salary in Australia is $${role.averageSalary.toLocaleString()}. See salary by state, experience level, and compare with related roles.`,
   };
 }
 

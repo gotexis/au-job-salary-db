@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!cat) return {};
   return {
     title: `${cat} Salaries Australia 2026 — All Roles & Pay Ranges`,
-    description: `Compare ${cat} salaries in Australia. See average pay, demand, and growth for all ${cat.toLowerCase()} roles.`,
+    description: `Compare ${cat} salaries in Australia. See average pay and demand for all ${cat.toLowerCase()} roles.`,
   };
 }
 
@@ -52,7 +52,6 @@ export default async function CategoryPage({ params }: Props) {
               <th>Entry Level</th>
               <th>Senior Level</th>
               <th>Demand</th>
-              <th>Growth</th>
             </tr>
           </thead>
           <tbody>
@@ -71,7 +70,6 @@ export default async function CategoryPage({ params }: Props) {
                     {role.demand}
                   </span>
                 </td>
-                <td className="text-success">{role.growth}</td>
               </tr>
             ))}
           </tbody>
